@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { isFileFolderExists } = require("./utils");
+const { isFileFolderExists } = require("../utils");
 
 const filePath = path.join(__dirname, "temp_files", "fs_modules.txt");
 

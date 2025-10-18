@@ -8,6 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ch1": "node ch1_modules"
+    "ch1": "node ch1_modules",
+    "ch1_assignments": "node assignments/ch1/fs_path.js"
   }
 }
