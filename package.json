@@ -7,8 +7,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "ch1": "node ch1_modules",
-    "ch1_assignments": "node assignments/ch1/fs_path.js"
+    "ch1_fs_assignments": "node assignments/ch1/fs_path.js",
+    "ch1_os_assignments": "node assignments/ch1/os_http.js"
   }
 }
