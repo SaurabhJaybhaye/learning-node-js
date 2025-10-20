@@ -1,5 +1,5 @@
 const EventEmitter = require("events");
-const userExists = require("../dummyData.js");
+const userExists = require("./dummyData.js");
 const emitter = new EventEmitter();
 
 const eventCounts = {
